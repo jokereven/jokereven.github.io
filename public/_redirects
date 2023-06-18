@@ -4,29 +4,18 @@ https://ddiu.me/* https://ddiu.io/:splat 301!
 https://ddiu.site/* https://ddiu.io/:splat 301!
 
 # Social Links
-/github https://github.com/ddiu8081
-/gh https://github.com/ddiu8081
-/figma https://figma.com/@ddiu8081
-/twitter https://twitter.com/ddiu8081
-/instagram https://www.instagram.com/dzpszied/
-/dribbble https://dribbble.com/ddiu8081
-/bilibili https://space.bilibili.com/541993
-/weibo https://weibo.com/u/1767697883
-/blog https://notes.ddiu.me/
+/github https://github.com/jokereven
+/gh https://github.com/jokereven
+/figma https://figma.com/@jokereven
+/twitter https://twitter.com/0xjokereven
+/instagram https://www.instagram.com/0xjokereven/
+/bilibili https://space.bilibili.com/2104605936
+/blog https://blog.code520.com.cn
 /playlist https://music.163.com/playlist?id=549605405
 /goodnight https://music.163.com/playlist?id=7560322783
 /workspace https://github.com/ddiu8081/workspace
 /vscode https://github.com/ddiu8081/vscode-settings
-/live https://live.bilibili.com/652581
-/wallpaper https://wallhaven.cc/user/ddiu8081/favorites/1019376
-
-# Projects
-/oreooo https://oreo.ddiu.io/
-/bus-vis https://bus.ddiu.me/
-/tin https://tin.ddiu.io/
-/moegi https://moegi.design/
-/emoji https://emoji.ddiu.io/
+/live https://live.bilibili.com/24692747
 
 # Github Repo Jump
-/gh/* https://github.com/ddiu8081/:splat
-
+/gh/* https://github.com/jokereven/:splat
