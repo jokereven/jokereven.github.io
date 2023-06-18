@@ -2,10 +2,10 @@ Hey, jokereven here! 👋
 
 I'm Zhou Jing, an On the verge of graduation college student at WuHan.
 
--   :hammer_and_pick: Go / React / Python / TypeScript
--   :pencil2: Arch Linux / Windows / Hackintosh / Neovim
--   :seedling: Gopher
--   :thought_balloon: All is for consistent.
+-   ⚒️ Go / React / Python / TypeScript
+-   ✏️ Arch Linux / Windows / Hackintosh / Neovim
+-   🌱 Gopher
+-   💭 All is for consistent.
 
 My Github chart:
 
