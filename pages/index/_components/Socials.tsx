@@ -43,7 +43,7 @@ export default () => {
       class: 'hover:bg-gray-700 dark:hover:bg-white dark:hover:text-gray-900'
     }, {
       text: '',
-      link: 'https://twitter.com/cnzjing125',
+      link: 'https://twitter.com/0xjokereven',
       icon: 'i-fa-brands-twitter',
       class: 'hover:bg-[#748DA6]'
     }, {
@@ -52,9 +52,8 @@ export default () => {
       icon: 'i-fa-brands-mastodon',
       class: 'hover:bg-[#9CB4CC]'
     }, {
-      // instagram 审核
       text: '',
-      link: 'https://www.instagram.com/jackineven',
+      link: 'https://www.instagram.com/0xjokereven',
       icon: 'i-fa-brands-instagram',
       class: 'hover:bg-gradient-to-r from-[#9CB4CC] to-[#D3CEDF]'
     }, {

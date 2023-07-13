@@ -12,7 +12,7 @@ const render = (pageContext: PageContext) => {
 
   const { documentProps } = pageContext.exports
   const title = (documentProps && documentProps.title) || 'Jokereven'
-  const description = (documentProps && documentProps.description) || 'Jokereven (cnzjing125), Developer.'
+  const description = (documentProps && documentProps.description) || 'Jokereven (0xjokereven), Developer.'
 
   return escapeInject`<!DOCTYPE html>
     <html lang="en">
@@ -24,7 +24,7 @@ const render = (pageContext: PageContext) => {
         <meta property="description" content="${description}" />
         <meta property="og:description" content="${description}" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="@cnzjing125" />
+        <meta name="twitter:creator" content="@0xjokereven" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="canonical" href="https://jokereven.github.io" />
         <link rel="icon" href="/favicon.ico" />
