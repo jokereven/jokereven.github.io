@@ -43,7 +43,7 @@ export default () => {
       class: 'hover:bg-gray-700 dark:hover:bg-white dark:hover:text-gray-900'
     }, {
       text: '',
-      link: 'https://twitter.com/0xjokereven',
+      link: 'https://twitter.com/cnzjing125',
       icon: 'i-fa-brands-twitter',
       class: 'hover:bg-[#748DA6]'
     }, {
