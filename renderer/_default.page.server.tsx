@@ -24,7 +24,7 @@ const render = (pageContext: PageContext) => {
         <meta property="description" content="${description}" />
         <meta property="og:description" content="${description}" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="@0xjokereven" />
+        <meta name="twitter:creator" content="@cnzjing125" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="canonical" href="https://jokereven.github.io" />
         <link rel="icon" href="/favicon.ico" />
